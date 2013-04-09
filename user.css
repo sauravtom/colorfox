@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+#viewer{
+    position: absolute!important;
+    top: 16px!important;
+    left:21%;
+}
+hr{
+    margin:50px;
+}
+
+#info{
+    opacity:0.7;
+    position:fixed;
+    top:16px;
+    right:1px;
+    width:200px;
+    height:30px;
+    background:gold;
+    padding:16px;
+    vertical-align: middle;
+    border-bottom: 5px solid black;
+}
+
+#info >*{
+    display:inline;
+    padding:20px;
+}
+
+#lt ,#gt{
+    cursor: pointer;
+    background:white;
+    border-radius: 50%;
+    width:5px;
+    height:5px;
+}
+
+#progressbar{
+    position:fixed;
+    top:0px;
+    width:100%;
+}
