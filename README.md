@@ -2,7 +2,7 @@
 
 Colorfox is a chrome extension which will change the way you read manga on the internet. ( assuming that you read manga, instead of just watching the anime ).
 
-Its an evolutionarry backward app, suppose you currently waste x hours reading mangas per week, after this extension enters your life, you would be wasting like 2x - 3x hours per week. Cool right ?
+Its an evolutionary backward app, suppose you currently waste x hours reading mangas per week, after this extension enters your life, you would be wasting like 2x - 3x hours per week. Cool right ?
 
 ###Features
 + Hide all the unnecessary elements of the page like ads, obvious navigations and instructions.
